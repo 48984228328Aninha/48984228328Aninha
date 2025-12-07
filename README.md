@@ -10,7 +10,7 @@
 
 ---
 <h1 align="center">Atividades mensais</h1>
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=48984228328Aninha&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=48984228328@Aniinha&theme=radical)
 
 ---
 ## 💡 Por que me contratar?
