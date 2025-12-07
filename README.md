@@ -9,7 +9,10 @@
 </p>
 
 ---
+<h1 align="center">Atividades mensais</h1>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=radical)](https://github.com/48984228328@Aninha)
 
+---
 ## 💡 Por que me contratar?
 - 🌟 Entrego soluções reais, não apenas sistemas.  
 - ⚡ Aplicando habilidades em Java, Spring Boot, Angular e mais.  
