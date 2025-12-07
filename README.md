@@ -36,11 +36,7 @@
 
 ###
 
-
 ---
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=48984228328@Aninha&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  
 
 ###
 
@@ -112,7 +108,6 @@ Adoro criar sistemas que facilitam a vida das pessoas e resolver problemas com s
 
 ---
 
-<img src="https://raw.githubusercontent.com/48984228328Aninha/48984228328Aninha/output/snake.svg" alt="Snake animation" />
 
 
 ---
