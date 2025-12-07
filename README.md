@@ -82,7 +82,7 @@ Adoro criar sistemas que facilitam a vida das pessoas e resolver problemas com s
 
 ## 📊 Estatísticas no GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=48984228328Aninha&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=48984228328@Aninha&show_icons=true&theme=radical" width="450"/>
 </p>
 
 ---
