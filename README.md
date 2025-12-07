@@ -1,4 +1,4 @@
-### Olá, eu sou Amanda Rodrigues! 👋
+# Olá, eu sou Amanda Rodrigues! 👋
 
 ## 💡 Por que me contratar?
 Construo soluções e não apenas código, aplicando minhas habilidades em Java, Spring Boot, Angular e outras tecnologias. Estou no segundo semestre da faculdade e já crio projetos que ajudam as pessoas.  
