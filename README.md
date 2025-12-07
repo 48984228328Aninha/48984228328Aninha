@@ -1,17 +1,56 @@
-### Olá! Eu sou Amanda Rodrigues!
+### Olá, eu sou Amanda Rodrigues! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandarodriguesba/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rodrigues_amandaa__?igsh=Mmx6a2J2NGF5Ymc5)
+## 💡 Por que me contratar?
+Construo soluções e não apenas código, aplicando minhas habilidades em Java, Spring Boot, Angular e outras tecnologias. Estou no segundo semestre da faculdade e já crio projetos que ajudam as pessoas.  
+Se quiser saber mais sobre mim, me mande um e-mail ou mensagem, ficarei muito feliz em conversar sobre novas oportunidades! ✨
 
-![Amanda Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=48984228328Aninha&show_icons=true&theme=radical)
+---
 
-### Tecnologias que utilizo diariamente
+## 👩‍💻 Sobre mim
+Sou apaixonada por desenvolvimento web e tecnologia, sempre buscando aprender novas ferramentas e entregar resultados reais.  
+Adoro criar sistemas que facilitam a vida das pessoas e resolver problemas com soluções práticas e eficientes.
 
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white>"
+---
 
+## 🛠️ Skills / Tech Stack
+Java | Spring Boot | Angular | HTML | CSS | JavaScript | PostgreSQL | MySQL | Docker | GitHub
+
+---
+
+## 🏆 Experiências
+**Projeto de Extensão – Unisul** *(Palhoça, SC – Fev 2025 a Mai 2025)*  
+- Levantamento de demandas da empresa e diagnóstico de melhorias.  
+- Implementação do WhatsApp Business, aumentando a comunicação em 60% com clientes.
+
+**MILIUM – Jovem Aprendiz** *(Nov 2024 – Atual)*  
+- Emissão de notas fiscais no SAP, atendimento ao cliente e apoio no processo de devoluções.  
+- Atendimento proativo e colaboração para manter ambiente de trabalho fluido.  
+
+---
+
+### 🎓 Estudos e Formação Acadêmica
+- **Unisul – Ciência da Computação** *(Mar 2025 – Dez 2029 previsto)*  
+- **Olimpíada Nacional de Inteligência Artificial** – Participante / Treinamento em Tecnologias e Competências de TI *(Nov 2025)*  
+- **Cisco Networking Academy – Computer Hardware Basics** *(Nov 2025)*  
+- **Fundação Bradesco – Introdução à Programação Orientada a Objetos (POO)**  
+- **Fundação Bradesco – NoSQL e MongoDB: NoSQL Databases do zero ao Cluster!**  
+
+---
+
+### 📂 Projetos Relevantes
+**[Site de Loja com Bootstrap](https://github.com/48984228328Aninha/bootstrap/tree/master)** *(Jul 2025)*  
+- Site responsivo de loja de sapatos, usando grid system, navegação, modais e componentes do Bootstrap.
+
+**[API Rest com Java e Spring Boot](https://github.com/48984228328Aninha/API_docker/tree/master)** *(Set 2025)*  
+- CRUD de usuários integrado com PostgreSQL, Docker e variáveis de ambiente.
+
+**[Sistema de Cálculo de Média](https://github.com/48984228328Aninha/notas)** *(Mar 2025)*  
+- Sistema simples de cálculo de média com input do usuário, usando HTML, CSS e JavaScript.
+
+---
+
+## 📫 Contato
+📧 amanda_rodrigues.de.siqueira@hotmail.com  
+📱 +55 48 98422-8328  
+🌐 [Portfólio](https://48984228328-aninha-github-io.vercel.app/)  
+🔗 [LinkedIn](www.linkedin.com/in/amanda-rodrigues-rds)
