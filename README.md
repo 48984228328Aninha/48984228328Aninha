@@ -38,11 +38,6 @@
 
 ---
 
-###
-
-###
-
----
 ## 💡 Por que me contratar?
 - 🌟 Entrego soluções reais, não apenas sistemas.  
 - ⚡ Aplicando habilidades em Java, Spring Boot, Angular e mais.  
