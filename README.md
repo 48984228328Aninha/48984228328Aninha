@@ -10,7 +10,9 @@
 
 ---
 <h1 align="center">Atividades mensais</h1>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=48984228328Aninha&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=48984228328Aninha&show_icons=true&theme=radical" width="450"/>
+</p>
 
 ---
 ## 💡 Por que me contratar?
