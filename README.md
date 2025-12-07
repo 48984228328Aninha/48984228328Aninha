@@ -112,10 +112,8 @@ Adoro criar sistemas que facilitam a vida das pessoas e resolver problemas com s
 
 ---
 
-## 📊 Estatísticas no GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=48984228328@Aninha&show_icons=true&theme=radical" width="450"/>
-</p>
+<img src="https://raw.githubusercontent.com/48984228328Aninha/48984228328Aninha/output/snake.svg" alt="Snake animation" />
+
 
 ---
 
