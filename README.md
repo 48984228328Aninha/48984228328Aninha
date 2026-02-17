@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img style="width: 100%; height: 550px; object-fit: cover" src="https://i.pinimg.com/1200x/25/67/c4/2567c48c89fafd9f2ebcc93a06ef4503.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
+  <img style="width: 100%; height: 500px; object-fit: cover" src="https://i.pinimg.com/1200x/25/67/c4/2567c48c89fafd9f2ebcc93a06ef4503.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
 </div>
 
 
