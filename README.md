@@ -1,5 +1,5 @@
 <div>
-  <h1 style="font-size:4em">Oi, me chamo Amanda</h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=40&center=true&vCenter=true&width=800&lines=Oi,+me+chamo+Amanda">
 </div>
 
 <div align="center">
