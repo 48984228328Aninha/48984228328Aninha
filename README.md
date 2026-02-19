@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/15/04/68/1504685cde3df43656eefe42d5bb10e7.jpg" width="400" height="400" style="border-radius:50%">
+  <img src="https://i.pinimg.com/736x/15/04/68/1504685cde3df43656eefe42d5bb10e7.jpg" width="600" height="400" style="border-radius:50%">
 </div>
 
 
