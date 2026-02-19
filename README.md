@@ -3,15 +3,15 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/15/04/68/1504685cde3df43656eefe42d5bb10e7.jpg" width="600" height="400" style="border-radius:50%">
+  <img src="https://i.pinimg.com/736x/15/04/68/1504685cde3df43656eefe42d5bb10e7.jpg" width="800" height="500" style="border-radius:50%">
 </div>
 
 
 <div align="center">
-  <img style="width: 150px; height: 150px; object-fit: cover" src="https://i.pinimg.com/736x/8c/1d/2b/8c1d2b702b1dcf87d5589fcf80beee08.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
-  <img style="width: 150px; height: 150px; object-fit: cover" src="https://i.pinimg.com/736x/96/a5/e9/96a5e9110b02ae842cc9993ce6bcc250.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
-  <img style="width: 150px; height: 150px; object-fit: cover" src="https://i.pinimg.com/736x/1f/a8/1b/1fa81b044a5f08dac6317736d6602196.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
-  <img style="width: 150px; height: 150px; object-fit: cover" src="https://i.pinimg.com/736x/54/1c/49/541c497b628c958b345cb10784102f6c.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
+  <img style="width: 200px; height: 150px; object-fit: cover" src="https://i.pinimg.com/736x/8c/1d/2b/8c1d2b702b1dcf87d5589fcf80beee08.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
+  <img style="width: 200px; height: 150px; object-fit: cover" src="https://i.pinimg.com/736x/96/a5/e9/96a5e9110b02ae842cc9993ce6bcc250.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
+  <img style="width: 200px; height: 150px; object-fit: cover" src="https://i.pinimg.com/736x/1f/a8/1b/1fa81b044a5f08dac6317736d6602196.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
+  <img style="width: 200px; height: 150px; object-fit: cover" src="https://i.pinimg.com/736x/54/1c/49/541c497b628c958b345cb10784102f6c.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
 </div>
 
 
