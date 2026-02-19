@@ -1,9 +1,12 @@
-<div>
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=40&center=true&vCenter=true&width=800&lines=Oi,+me+chamo+Amanda">
 </div>
 
 <div align="center">
-  <img style="width: 100%; height: 600px; object-fit: cover" src="https://i.pinimg.com/736x/d7/5c/05/d75c05b69600a018cfaeeee8bf3c0719.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
+  <img style="width: 150px; height: 150px; object-fit: cover" src="https://i.pinimg.com/736x/8c/1d/2b/8c1d2b702b1dcf87d5589fcf80beee08.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
+  <img style="width: 150px; height: 150px; object-fit: cover" src="https://i.pinimg.com/736x/96/a5/e9/96a5e9110b02ae842cc9993ce6bcc250.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
+  <img style="width: 150px; height: 150px; object-fit: cover" src="https://i.pinimg.com/736x/1f/a8/1b/1fa81b044a5f08dac6317736d6602196.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
+  <img style="width: 150px; height: 150px; object-fit: cover" src="https://i.pinimg.com/736x/54/1c/49/541c497b628c958b345cb10784102f6c.jpg?type=soft&height=100&section=header&reversal=true&text=Amanda%20Rodrigues&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FF007&strokeWidth=1&animation=fadeIn&descSize=20&textBg=false&theme=tokyonight"  />
 </div>
 
 
