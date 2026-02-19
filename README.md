@@ -33,6 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/rust" width="60" />
+<img src="https://cdn.simpleicons.org/qiskit" width="60" />
+
 </div>
 
 
