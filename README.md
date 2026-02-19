@@ -54,16 +54,12 @@
 
 
 <div align="center">
-<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=blur&height=50&section=header&text=Sobre%20mim&fontSize=40&fontColor=FFFFFF&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=40&center=true&vCenter=true&width=800&lines=Quem+eu+sou?">
 </div>
 
+## Profissional com vivência em Java, Spring Boot, Docker e com interesse em Rust.
+## Entusiasta de Computação Quântica e Qiskit.
+## Participante da Olimpíada Nacional de Inteligência Artificial
 
-<div align="center">
-<div style="width: 80%; text-align: left;">
-<p>Entusiasta de Computação Quântica e desenvolvimento web, 2 ano da graduanção de Ciência da Computação</p>
-</div>
-</div>
-
-
-###
+> **Ei!** Obrigada por ler!
 
