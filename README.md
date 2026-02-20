@@ -61,5 +61,9 @@
 ## Entusiasta de Computação Quântica e Qiskit.
 ## Participante da Olimpíada Nacional de Inteligência Artificial
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx1bHRieGRkY2R2MHJieTVlZTFnZmprcmxxbXY3NXNnbW85NHB0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3BPj3XWCslSwsbLfQR/giphy.gif" width="300" height="300" style="border-radius:50%">
+</div>
+
 > **Ei!** Obrigada por ler!
 
