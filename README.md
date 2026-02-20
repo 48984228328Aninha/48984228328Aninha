@@ -57,9 +57,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=40&center=true&vCenter=true&width=800&lines=Quem+eu+sou?">
 </div>
 
-## Profissional com vivência em Java, Spring Boot, Docker e com interesse em Rust.
-## Entusiasta de Computação Quântica e Qiskit.
-## Participante da Olimpíada Nacional de Inteligência Artificial
+- Profissional com vivência em Java, Spring Boot, Docker e com interesse em Rust.
+- Entusiasta de Computação Quântica e Qiskit.
+- Participante da Olimpíada Nacional de Inteligência Artificial
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx1bHRieGRkY2R2MHJieTVlZTFnZmprcmxxbXY3NXNnbW85NHB0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3BPj3XWCslSwsbLfQR/giphy.gif" width="300" height="300" style="border-radius:50%">
