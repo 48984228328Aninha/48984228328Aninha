@@ -87,10 +87,19 @@ public class AmandaRodrigues {
         simulateNetworks();
         studyQuantum();
         readRandomBooks();
-    }   
-            }
+    }
 
-// :)
+   public void codingJourney() {
+        while (learning) {
+            analyzeLogs();
+            debugDeeply();
+            optimizePerformance();
+            learnSomethingNew();
+
+            if (caffeineLevel < 30) {
+                drinkCoffee();
+            }
+}
 ```
 <br clear="right"/>
 
