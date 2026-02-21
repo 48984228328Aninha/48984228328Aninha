@@ -16,7 +16,9 @@
 
 
 ###
-
+<div align="center">
+  <h1>Linguagens e ferramentas</h1>
+</div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
@@ -42,6 +44,9 @@
 
 ---
 
+<div align="center">
+  <h1>Estatísticas</h1>
+</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=48984228328Aninha&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" />
