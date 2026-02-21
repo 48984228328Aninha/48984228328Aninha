@@ -90,6 +90,7 @@ public class AmandaRodrigues {
     }
         }
 ```
+<br clear="right"/>
 
 <div align="center">
   <h1>Estatísticas</h1>
@@ -105,16 +106,86 @@ public class AmandaRodrigues {
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=40&center=true&vCenter=true&width=800&lines=Quem+eu+sou?">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=40&center=true&vCenter=true&width=800&lines=Estou+estudando" height="300">
 </div>
 
-- Profissional com vivência em Java, Spring Boot, Docker e com interesse em Rust.
-- Entusiasta de Computação Quântica e Qiskit.
-- Participante da Olimpíada Nacional de Inteligência Artificial
+<table align="center">
+<tr>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGx1bHRieGRkY2R2MHJieTVlZTFnZmprcmxxbXY3NXNnbW85NHB0ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3BPj3XWCslSwsbLfQR/giphy.gif" width="300" height="300" style="border-radius:50%">
-</div>
+<!-- GIF -->
+<td align="center" valign="top" width="350">
+
+<img 
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXdsZ3ZjcHBkODNwaWpobnl0Mzd5bHgzOG5rZHVjbnNiN2xzZ2UwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OxohSOVkz1iWSkSB2y/giphy.gif"
+width="330"
+style="border-radius:50%;"
+/>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnRjbmNvOXFzZnphZmhwMzE1bDN0bDJoeG52dGd5bjE4dGVwdXAxNCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ENvGlMWPFcv5k4busx/giphy.gif" width="330" style="border-radius:50%;">
+
+</td>
+
+<!-- CARDS -->
+<td valign="top">
+
+<table>
+<tr>
+<td align="center" width="260">
+
+### ⚛️ Computação Quântica  
+![Qiskit](https://img.shields.io/badge/Qiskit-4338ca?style=flat-square)  
+
+Superposição • Qubits • Circuitos  
+
+</td>
+
+<td align="center" width="260">
+
+### 🌐 Redes & Infra  
+![Pipeline](https://img.shields.io/badge/Pipeline-4338ca?style=flat-square)  
+
+BGP • TCP/IP • Simulação • Pipeline  
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🛡️ Cyber Security  
+![JWT](https://img.shields.io/badge/JWT-4338ca?style=flat-square)  
+
+JWT • Segurança de APIs • Hydra  
+IPS • IDS • Firewall  
+
+</td>
+
+<td align="center">
+
+### ⚙️ Back-End  
+![Microsserviços](https://img.shields.io/badge/Microsserviços-4338ca?style=flat-square)  
+
+Clean Architecture • Microsserviços  
+DDD • Paginação • Kafka  
+Keycloak • ClickHouse  
+
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+
+### 🦀 Rust  
+Programação de Sistemas  
+
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
 
 > **Ei!** Obrigada por ler!
 
