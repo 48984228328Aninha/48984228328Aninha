@@ -87,8 +87,10 @@ public class AmandaRodrigues {
         simulateNetworks();
         studyQuantum();
         readRandomBooks();
-    }
-        }
+    }   
+            }
+
+// :)
 ```
 <br clear="right"/>
 
@@ -125,7 +127,6 @@ style="border-radius:50%;"
 
 </td>
 
-<!-- CARDS -->
 <td valign="top">
 
 <table>
@@ -176,6 +177,7 @@ Keycloak • ClickHouse
 <td align="center" colspan="2">
 
 ### 🦀 Rust  
+![Rust](https://img.shields.io/badge/Rust-4338ca?style=flat-square)
 Programação de Sistemas  
 
 </td>
