@@ -107,6 +107,7 @@ public class AmandaRodrigues {
   <img src="https://i.pinimg.com/736x/88/3b/48/883b484768359250376ba3587f997aac.jpg" width=150px>
   <img src="https://i.pinimg.com/736x/b3/8e/a2/b38ea2b1370bdd6f18b93196c2c05900.jpg" width=150px />
   <img src="https://i.pinimg.com/736x/07/71/6e/07716ec1ab62caa00000b27899f3915e.jpg" width=150px />
+  <img src="https://i.pinimg.com/736x/a3/34/a6/a334a69833589e850a186ab19f8d7648.jpg" width=150px />
 </div>
 
 <div align="center">
@@ -117,13 +118,18 @@ public class AmandaRodrigues {
 <img src="https://streak-stats.demolab.com?user=48984228328Aninha&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="400" />
 </div>
 
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=48984228328Aninha&layout=compact&theme=tokyonight&hide_border=false" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7C3AED&size=40&center=true&vCenter=true&width=800&lines=Estou+estudando" height="300">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=48984228328Aninha&bg_color=1a1b27&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=false" width="800" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=48984228328Aninha&show_icons=true&theme=tokyonight&hide_border=false&title_color=7C3AED&icon_color=7C3AED" alt="Estatísticas Gerais" />
+</div>
+
 
 <table align="center">
 <tr>
