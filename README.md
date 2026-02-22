@@ -104,9 +104,9 @@ public class AmandaRodrigues {
 <br clear="right"/>
 
 <div align=center>
-  <img src="https://i.pinimg.com/736x/88/3b/48/883b484768359250376ba3587f997aac.jpg" width=300px>
-  <img src="https://i.pinimg.com/736x/b3/8e/a2/b38ea2b1370bdd6f18b93196c2c05900.jpg" width=300px />
-  <img src="https://i.pinimg.com/736x/07/71/6e/07716ec1ab62caa00000b27899f3915e.jpg" width=300px />
+  <img src="https://i.pinimg.com/736x/88/3b/48/883b484768359250376ba3587f997aac.jpg" width=150px>
+  <img src="https://i.pinimg.com/736x/b3/8e/a2/b38ea2b1370bdd6f18b93196c2c05900.jpg" width=150px />
+  <img src="https://i.pinimg.com/736x/07/71/6e/07716ec1ab62caa00000b27899f3915e.jpg" width=150px />
 </div>
 
 <div align="center">
