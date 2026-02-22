@@ -103,13 +103,18 @@ public class AmandaRodrigues {
 ```
 <br clear="right"/>
 
+<div align=center>
+  <img src="https://i.pinimg.com/736x/88/3b/48/883b484768359250376ba3587f997aac.jpg" width=300px>
+  <img src="https://i.pinimg.com/736x/b3/8e/a2/b38ea2b1370bdd6f18b93196c2c05900.jpg" width=300px />
+  <img src="https://i.pinimg.com/736x/07/71/6e/07716ec1ab62caa00000b27899f3915e.jpg" width=300px />
+</div>
+
 <div align="center">
   <h1>Estatísticas</h1>
 </div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=48984228328Aninha&locale=pt-br&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="400" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=48984228328Aninha&radius=16&theme=nightowl&area=true" height="300; width="300" />
 </div>
 
 
