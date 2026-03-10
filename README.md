@@ -130,6 +130,9 @@ public class AmandaRodrigues {
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=48984228328Aninha&show_icons=true&theme=tokyonight&hide_border=false&title_color=7C3AED&icon_color=7C3AED" alt="Estatísticas Gerais" />
 </div>
 
+<div align="center">
+  <h1>Estou estudando</h1>
+</div>
 
 <table align="center">
 <tr>
@@ -152,6 +155,7 @@ style="border-radius:50%;"
 <table>
 <tr>
 <td align="center" width="260">
+
 
 ### ⚛️ Computação Quântica  
 ![Qiskit](https://img.shields.io/badge/Qiskit-4338ca?style=flat-square)  
@@ -209,5 +213,163 @@ Programação de Sistemas
 </tr>
 </table>
 
-> **Ei!** Obrigada por ler!
+<div align="center">
+  <h1>Projetos em destaque</h1>
+</div>
+
+---
+
+<h2 align="center">⚙️ Backend</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-4338ca?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-4338ca?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4338ca?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="30">🟣</td>
+<td>
+
+### 📚 Plataforma de Cursos
+
+Sistema de gerenciamento de cursos com arquitetura back-end.
+
+**Stack**  
+Java • Spring Boot • PostgreSQL
+
+**Conceitos**
+
+- APIs REST  
+- Arquitetura MVC  
+- Autenticação JWT  
+- Relacionamento entre entidades
+
+🔗 https://github.com/48984228328Aninha/PlataformaCurso
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">⚛️ Computação Quântica</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Qiskit-4338ca?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-4338ca?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="30">🟡</td>
+<td>
+
+### ⚛️ Quantum Experiments (Qiskit)
+
+Exploração de circuitos quânticos utilizando **Qiskit**.
+
+**Conceitos**
+
+- Superposição  
+- Medição de qubits  
+- Portas quânticas  
+- Simulação de circuitos
+
+🔗 https://github.com/48984228328Aninha/qiskit
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">🧠 Sistemas</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Rust-4338ca?style=flat-square&logo=rust&logoColor=white"/>
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="30">🔵</td>
+<td>
+
+### 🕹️ CHIP-8 Emulator
+
+Emulador do **CHIP-8**, interpretando instruções e executando ROMs.
+
+**Conceitos**
+
+- Emulação de CPU  
+- Gerenciamento de memória  
+- Decodificação de opcodes  
+- Arquitetura de sistemas
+
+🔗 https://github.com/48984228328Aninha/chip-8
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">🔬 Simulações Científicas</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Physics-Simulation-4338ca?style=flat-square"/>
+</p>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="30">🟢</td>
+<td>
+
+### 🌊 Simulador da Dupla Fenda
+
+Simulação computacional do experimento da **dupla fenda**.
+
+**Conceitos**
+
+- Interferência de ondas  
+- Simulação física  
+- Visualização científica
+
+🔗 https://github.com/48984228328Aninha/DuplaFenda
+
+</td>
+</tr>
+</table>
+
+</div>
+</div>
+
+<div align="center">
+<h1>Resumo</h1>
+
+| Projeto | Área |
+|-------|------|
+| 🕹️ **CHIP-8 Emulator** | Sistemas / Emulação |
+| ⚛️ **Quantum Experiments** | Computação Quântica |
+| 📚 **Plataforma de Cursos** | Backend |
+| 🌊 **Simulador Dupla Fenda** | Simulação Científica |
+
+</div>
+
+> Ei! Obrigada por ler!
 
